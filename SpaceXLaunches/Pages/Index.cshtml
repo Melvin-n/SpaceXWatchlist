@@ -1,0 +1,48 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<html>
+<head>
+    <title>API Data</title>
+    <script src="~/js/site.js" defer></script>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/SpaceXLaunches.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <button id="openOffcanvas" class="offcanvas-button">Add Launch to watchlist</button>
+
+    <div>
+        <table id="watchList" border="1">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Launch Time</th>
+                    <th>Success</th>
+                    <th>Video</th>
+                    <th>Details</th>
+                </tr>
+            </thead>
+            <tbody id="watchListTable"></tbody>
+        </table>
+    </div>
+    <div id="offcanvas-launch-table" class="offcanvas-launch-table">
+
+        <button id="closeOffcanvas" class="offcanvas-button">Close offcanvas</button>
+    <table id="launchTable" border="1">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Launch Time</th>
+                <th>Success</th>
+                <th>Add</th>
+            </tr>
+        </thead>
+        <tbody id="launchDataTable"></tbody>
+    </table>
+    </div>
+</body>
+</html>

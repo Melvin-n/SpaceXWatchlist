@@ -1,0 +1,18 @@
+# .NET files
+*.dll
+*.exe
+*.pdb
+*.obj
+*.log
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+#.vsidx
+
+# Rider files
+.idea/

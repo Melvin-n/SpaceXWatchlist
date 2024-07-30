@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SpaceXLaunches")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3b8ed043bc3db96c579666170a3c44eb96feab8")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpaceXLaunches")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpaceXLaunches")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

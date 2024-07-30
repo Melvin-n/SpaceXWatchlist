@@ -10,7 +10,7 @@ namespace SpaceXLaunches.Models
         }
         public string ID { get; set; }
         public string Name { get; set; }
-        public string? LaunchDate { get; set; }
+        public string? LaunchTime { get; set; }
         public string? Success { get; set; }
         public string? Details { get; set; }
         public string? Webcast { get; set; }

@@ -263,3 +263,4 @@ C:\Users\melvi\source\repos\SpaceXLaunches\SpaceXLaunches\bin\Debug\net8.0\runti
 C:\Users\melvi\source\repos\SpaceXLaunches\SpaceXLaunches\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 C:\Users\melvi\source\repos\SpaceXLaunches\SpaceXLaunches\obj\Debug\net8.0\SpaceXLaunches.csproj.AssemblyReference.cache
 C:\Users\melvi\source\repos\SpaceXLaunches\SpaceXLaunches\obj\Debug\net8.0\SpaceXLaunches.csproj.CopyComplete
+C:\Users\melvi\source\repos\SpaceXLaunches\SpaceXLaunches\obj\Debug\net8.0\SpaceXLaunches.sourcelink.json

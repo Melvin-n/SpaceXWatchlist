@@ -3,9 +3,10 @@
 for details on configuring this project to bundle and minify static web assets. */
 
 a.navbar-brand[b-wcjjr5twxw] {
-  white-space: normal;
-  text-align: center;
-  word-break: break-all;
+    white-space: normal;
+    text-align: center;
+    word-break: break-all;
+    color: #145051;
 }
 
 a[b-wcjjr5twxw] {

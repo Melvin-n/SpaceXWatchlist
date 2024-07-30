@@ -5,4 +5,4 @@ To run:
 - open .sln file
 - run
 
-Note: The API used is [deprecated](https://github.com/r-spacex/SpaceX-API/issues/1243), therefore no recent launches will be shown
+Note: The API used is [deprecated](https://github.com/r-spacex/SpaceX-API/issues/1243), therefore no upcoming or recent launches will be shown.
